@@ -7,8 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "Ryan Anderson (https://github.com/Ryansswell)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
